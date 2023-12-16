@@ -1,0 +1,23 @@
+baseurl = "https://defmarco.com/"
+title = "defmarco.com"
+author = "Marco Schneider"
+canonifyurls = true
+languagecode = "de-de"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "defmarco.com"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+[[menu.main]]
+    name = "CV"
+    url  = "/cv"
+[[menu.main]]
+    name = "Talks and Posts"
+    url  = "/talks-and-posts"
