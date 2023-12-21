@@ -11,7 +11,7 @@
   - event-sourcing/event-driven-architecture
 - open source work
 
-## 2014--2017: Working Student (Softare Developer) at [Active Group](https://active-group.de)
+## 2014--2017: Working Student (Software Developer) at [Active Group](https://active-group.de)
 
 - Frontend development (React/[reacl](https://github.com/active-group/reacl))
 - development of an [embedded database
