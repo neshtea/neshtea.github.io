@@ -1,3 +1,7 @@
+---
+type: "page"
+---
+
 # Talks and Posts
 
 ## Posts

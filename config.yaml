@@ -1,0 +1,42 @@
+baseURL: 'http://gohugo.io/'
+languageCode: 'en-us'
+theme: "rose-pine"
+paginate: 5
+
+permalinks:
+  notes: /note/:year:month:day
+
+markup:
+  highlight:
+    style: "rose-pine"
+    linenos: true
+    anchorlinenos: true
+    noClasses: false
+
+menu:
+  header:
+  - name: "about"
+    url: "about"
+  - name: "posts"
+    url: "posts"
+  - name: "code"
+    url: "code"
+  - name: "talks+posts"
+    url: "talks-and-posts"
+
+params:
+  author: "Marco Schneider"
+  user: "root"
+  hostname: "defmarco.com"
+  social:
+  - name: "github"
+    url: "https://github.com/neshtea"
+  - name: "twitter"
+    url: "https://twitter.com/eskape"
+  - name: "mastodon"
+    url: "https://chaos.social/@anarres"
+  - name: "linkedin"
+    url: "https://www.example.com"
+  - name: "email"
+    url: "mailto:marco.schneider@posteo.de"
+

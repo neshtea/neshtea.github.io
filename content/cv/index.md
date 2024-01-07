@@ -1,3 +1,7 @@
+---
+type: "page"
+---
+
 # CV
 
 ## 2017--today: Software Developer & Architect at [Active Group](https://active-group.de)

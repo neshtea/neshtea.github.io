@@ -1,4 +1,9 @@
-# Hi 👋 
+---
+type: "page"
+title: "About"
+---
+
+## Hi 👋
 
 I'm Marco Schneider, I live in Berlin and I write software.  I work at [Active
 Group GmbH](https://active-group.de), one of the leading providers of custom
