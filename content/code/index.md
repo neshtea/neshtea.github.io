@@ -11,6 +11,9 @@ Some small libraries that might be useful for others.
 - [neshtea/mjson](https://github.com/neshtea/mjson): a small OCaml library for
   decoding JSON-values. Backend-agnostic, currently supports
   [yojson](https://github.com/ocaml-community/yojson).
+- [neshtea/kimai_report](https://github.com/neshtea/kimai_report/): little tool
+  to generate reports from my [time tracking app](https://www.kimai.cloud/)
+  useful (at least for me!) or necessary at work.
 
 ## Clojure
 
