@@ -20,3 +20,9 @@ Some small libraries that might be useful for others.
 - [active-group/sqlosure](https://github.com/active-group/sqlosure): SQL & DB
   access with Clojure based on a monadic query language.
 
+## Kotlin
+
+- [neshtea/kkon-fp-einstieg](https://github.com/neshtea/kkon-fp-einstieg):
+  accomanying code for my workshop day ["Funktionale Programmierung in
+  Kotlin"](https://rheinwerk-kkon.de/workshops/schneider-funktionale-programmierung-einstieg/)
+  at Rheinwerk KKon.
