@@ -25,6 +25,10 @@ Posts elsewhere:
 
 ## Talks
 
+- DevDay 2024 (Dresden): ["Hyper Hyper! Javascript fatigue und die Hypermedia
+  Renaissance
+  (?)](https://www.devday.de/dev-day-2024/talk/hyper-hyper-javascript-fatigue-und-die-hypermedia-renaissance/)
+  (again 🤗)
 - BOB Konferenz 2024 (Berlin): ["Hyper Hyper! Javascript fatigue und die
   Hypermedia Renaissance (?)"](https://bobkonf.de/2024/schneider.html)
 - DevDay 2023 (Dresden): ["Wie man mithilfe hoher Kopplung Softwareprojekte
