@@ -1,9 +1,9 @@
 +++
-title = 'Bob 2024 Htmx'
+title = 'Videos for BOBKonf 2024 are up (including mine)!'
 date = 2024-08-09T09:39:59+02:00
-draft = true
+draft = false
 categories = [
-	"functional programming"
+	"functional programming",
 	"web"
 ]
 +++
