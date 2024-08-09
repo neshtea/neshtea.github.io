@@ -9,7 +9,7 @@ enableInlineShortcodes: true
 theme: "paper"
 
 params:
-  color: "gray"
+  color: "linen"
   twitter: "eskape"
   github: "neshtea"
   mastodon: "https://chaos.social/@anarres"
