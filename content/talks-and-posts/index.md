@@ -19,7 +19,8 @@ Posts elsewhere:
 
 ## Workshops
 
-- Rheinwerk KKon (online): ["Funktionale Programmierung – Einstieg"](https://rheinwerk-kkon.de/workshops/schneider-funktionale-programmierung-einstieg/)
+- Rheinwerk KKon (2024, online): ["Funktionale Programmierung – Einstieg"](https://rheinwerk-kkon.de/workshops/schneider-einstieg-funktionale-programmierung-einstieg/)
+- Rheinwerk KKon (2023, online): ["Funktionale Programmierung – Einstieg"](https://rheinwerk-kkon.de/workshops/schneider-funktionale-programmierung-einstieg/)
 
 ## Talks
 

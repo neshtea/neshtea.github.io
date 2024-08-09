@@ -1,6 +1,6 @@
 +++
 title = 'Videos for BOBKonf 2024 are up (including mine)!'
-date = 2024-08-09T09:39:59+02:00
+date = 2024-08-02T09:39:59+02:00
 draft = false
 categories = [
 	"functional programming",
