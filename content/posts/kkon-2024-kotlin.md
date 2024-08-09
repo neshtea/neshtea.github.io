@@ -16,8 +16,8 @@ on September 17th. I had loads of fun last year and met a lot of great people
 there, so I am hyped to run the workshop once again. The workshop is going to be
 in German and will start from the very basics (data analysis, data structures,
 lists, ...) and -- if we're lucky -- we are going to end on the dreaded
-m-word[^1]. Just like last year, we're running the workshop remotely. There
+m-word[^fn1]. Just like last year, we're running the workshop remotely. There
 should still be [tickets left](https://rheinwerk-kkon.de). Hope to see you
 there!
 
-[^1] Monad, of course 🤗
+[^fn1]: Monad, of course 🤗

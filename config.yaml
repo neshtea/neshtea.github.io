@@ -2,7 +2,7 @@ baseURL: "https://defmarco.com/"
 title: "defmarco.com"
 author: "Marco Schneider"
 languageCode: 'en-us'
-paginate: 5
+paginate: 3
 DefaultContentLanguage: "en"
 enableInlineShortcodes: true
 
@@ -18,13 +18,6 @@ params:
 
 permalinks:
   notes: /note/:year:month:day
-
-markup:
-  highlight:
-    style: "rose-pine"
-    linenos: true
-    anchorlinenos: true
-    noClasses: false
 
 menu:
   main:
