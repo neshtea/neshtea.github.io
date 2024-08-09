@@ -30,7 +30,7 @@ Posts elsewhere:
 - BOB Konferenz 2024 (Berlin): ["Hyper Hyper! Javascript fatigue und die
   Hypermedia Renaissance (?)"](https://bobkonf.de/2024/schneider.html)
   - watch it on
-    [media.cc](https://media.ccc.de/v/bob11-2024-javascript-fatigue-und-die-hypermedia-renaissance-schneider)
+    [media.ccc](https://media.ccc.de/v/bob11-2024-javascript-fatigue-und-die-hypermedia-renaissance-schneider)
     or [YouTube](https://www.youtube.com/watch?v=cp52TBEW76E) (German)
 - DevDay 2023 (Dresden): ["Wie man mithilfe hoher Kopplung Softwareprojekte
   sabotiert"](https://www.devday.de/dev-day-2023/talk/wie-man-mithilfe-hoher-kopplung-softwareprojekte-sabotiert/)

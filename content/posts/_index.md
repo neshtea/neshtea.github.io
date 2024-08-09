@@ -1,4 +1,0 @@
-+++
-aliases = ["posts"]
-title = "posts"
-+++

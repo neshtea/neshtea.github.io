@@ -16,6 +16,10 @@ full video at
 [media.ccc](https://media.ccc.de/v/bob11-2024-javascript-fatigue-und-die-hypermedia-renaissance-schneider).
 It was crazy hot in there, so please forgive my sweaty face 😅
 
+You can also watch it directly on [YouTube](https://www.youtube.com/watch?v=cp52TBEW76E) (German):
+
+{{< youtube cp52TBEW76E >}}
+
 To give a talk at BOBKonf is something very special to me, given that I have
 been one of the organisers since around 2015. I've seen lots of great talks and
 met a lot of awesome people there. I'm already looking forward to 2025!
