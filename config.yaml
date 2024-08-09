@@ -1,7 +1,20 @@
-baseURL: 'http://gohugo.io/'
+baseURL: "https://defmarco.com/"
+title: "defmarco.com"
+author: "Marco Schneider"
 languageCode: 'en-us'
-theme: "rose-pine"
 paginate: 5
+DefaultContentLanguage: "en"
+enableInlineShortcodes: true
+
+theme: "paper"
+
+params:
+  color: "linen"
+  twitter: "eskape"
+  github: "neshtea"
+  mastodon: "https://chaos.social/@anarres"
+  linkedin: "marco-schneider-34391612a"
+  avatar: "marco.schneider@posteo.de"
 
 permalinks:
   notes: /note/:year:month:day
@@ -14,29 +27,16 @@ markup:
     noClasses: false
 
 menu:
-  header:
-  - name: "about"
-    url: "about"
-  - name: "posts"
-    url: "posts"
-  - name: "code"
-    url: "code"
-  - name: "talks+posts"
-    url: "talks-and-posts"
-
-params:
-  author: "Marco Schneider"
-  user: "root"
-  hostname: "defmarco.com"
-  social:
-  - name: "github"
-    url: "https://github.com/neshtea"
-  - name: "twitter"
-    url: "https://twitter.com/eskape"
-  - name: "mastodon"
-    url: "https://chaos.social/@anarres"
-  - name: "linkedin"
-    url: "https://www.example.com"
-  - name: "email"
-    url: "mailto:marco.schneider@posteo.de"
-
+  main:
+    - identifier: about
+      name: About
+      url: "/about"
+    - identifier: posts
+      name: Posts
+      url: "/posts"
+    - identifier: code
+      name: "Code"
+      url: "/code"
+    - identifier: "talks+posts"
+      name: Talks+Posts
+      url: "/talks-and-posts"
