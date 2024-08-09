@@ -17,8 +17,6 @@ Posts elsewhere:
 - [Reacl 2 - rein funktionale Programmierung, Side Effects und
   Actions](https://funktionale-programmierung.de/2017/06/29/reacl2.html)
 
-
-
 ## Workshops
 
 - Rheinwerk KKon (online): ["Funktionale Programmierung – Einstieg"](https://rheinwerk-kkon.de/workshops/schneider-funktionale-programmierung-einstieg/)
@@ -31,6 +29,9 @@ Posts elsewhere:
   (again 🤗)
 - BOB Konferenz 2024 (Berlin): ["Hyper Hyper! Javascript fatigue und die
   Hypermedia Renaissance (?)"](https://bobkonf.de/2024/schneider.html)
+  - watch it on
+    [media.cc](https://media.ccc.de/v/bob11-2024-javascript-fatigue-und-die-hypermedia-renaissance-schneider)
+    or [YouTube](https://www.youtube.com/watch?v=cp52TBEW76E) (German)
 - DevDay 2023 (Dresden): ["Wie man mithilfe hoher Kopplung Softwareprojekte
   sabotiert"](https://www.devday.de/dev-day-2023/talk/wie-man-mithilfe-hoher-kopplung-softwareprojekte-sabotiert/)
 - DevDay 2023 (Dresden): ["Die ganze Geschichte ein scanl entfernt – Event
